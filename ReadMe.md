@@ -32,6 +32,7 @@ Having Multiple zones limits the interaction between people and limits the sprea
 |----------------|-------|---|---|---|
 | Healthy People | 25000 |   |   |   |
 | Sick People    | 25    |   |   |   |
+| Zones          | 75    |   |   |   |
 | Days           | 100   |   |   |   |
 
 <br />
